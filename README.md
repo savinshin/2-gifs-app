@@ -2,6 +2,14 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
 
+# Getting Started with Angular
+
+This is a project to demonstrate the basics of working with Angular.
+
+## Live Project
+
+You can check out the live version of the project here: [Live Demo](https://2-gifs-app.netlify.app/)
+
 ## Development server
 
 To start a local development server, run:
