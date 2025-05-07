@@ -2,9 +2,9 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
 
-# Getting Started with Angular
+# Getting Started with 2 GIFs App
 
-This is a project to demonstrate the basics of working with Angular.
+This is a project to demonstrate how to search and display trending GIFs using Angular and the Giphy API.
 
 ## Live Project
 
